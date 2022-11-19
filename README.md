@@ -1,16 +1,16 @@
-#IBM-Project-1371-1658386275
-#SmartFarmer - IoT Enabled Smart Farming Application
+IBM-Project-1371-1658386275
+SmartFarmer - IoT Enabled Smart Farming Application
 
-#Team Id : PNT2022TMID44390
+Team Id : PNT2022TMID44390
 
-#Team Members:
+Team Members:
 
 ✨Charulatha H (731119205005)
 ✨Deepika R (731119205006)
 ✨Pavithra Devi V R (731119205032) - Team Lead
 ✨Ramya K G (731119205036)
 
-#Problem Statement:
+Problem Statement:
 
 India is a Global agricultural powerhouse which is considered as the key for Human Progress. 
 Farmers are usually involved in watering the crops at scheduled times which requires a lot of human intervention, 
