@@ -3,12 +3,11 @@ SmartFarmer - IoT Enabled Smart Farming Application.
 
 Team Id : PNT2022TMID44390
 
-Team Members:
+PROJECT DEMO LINKS
 
-✨Charulatha H (731119205005)
-✨Deepika R (731119205006)
-✨Pavithra Devi V R (731119205032) - Team Lead
-✨Ramya K G (731119205036)
+1.YOUTUBE LINK - https://youtu.be/MWrWFIxhgwU
+2.DRIVE LINK - https://drive.google.com/file/d/1y_Re5kOXalesdpnT1UJveuoQ9OLC-q3H/view?usp=drivesdk
+DASHBOARD LINK https://node-red-unzmj-2022-11-09.au-syd.mybluemix.net/ui/#!/0?socketid=1iQ8MyJ0AuMtOSj2AABb
 
 Problem Statement:
 
